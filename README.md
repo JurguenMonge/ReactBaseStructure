@@ -56,21 +56,20 @@ Install all dependencies
 npm install
 ```
 
-Correr el proyecto
+Run project
 ```bash
 npm run dev
 ```
 
-Eliminar un dependencia
+Delete dependencie
 ```bash
-npm uninstall [nombre-dependencia]
+npm uninstall [name-dependencie]
 ```
 
 ### Author
 [Jurguen Monge](https://github.com/JurguenMonge)
 
-Revisa mi [hook](https://www.npmjs.com/package/use-idle-timer) 
-e implementalo si te sirve
+Visit my [hook](https://www.npmjs.com/package/use-idle-timer) and add your project
 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for more details.
